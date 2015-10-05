@@ -1,0 +1,17 @@
+{
+  "name": "NodeMySQL",
+  "version": "0.0.0",
+  "description": "NodeMySQL",
+  "main": "app.js",
+  "author": {
+    "name": "Rajeev",
+    "email": ""
+  },
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "express": "3.4.4",
+    "mysql": "^2.9.0",
+    "stylus": "*",
+    "underscore": "^1.8.3"
+  }
+}
